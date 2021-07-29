@@ -1,0 +1,58 @@
+.info-background{
+    background-color: rgb(0, 33, 34);
+
+}
+
+.btn{
+    width: 110px;
+    padding: 5px;
+    
+    background-color: rgb(219, 99, 55);
+}
+body{
+    background-color: rgb(255, 240, 240);
+}
+.filled{
+    color: rgb(219, 99, 55);
+}
+.three-bike{
+    text-align: center;
+}
+.text-color{
+    color: rgba(241, 89, 0, 0.692);
+}
+.text-box{
+    color: rgba(241, 89, 0, 0.692);
+}
+
+
+
+
+body h2{ 
+    color: rgba(0, 33, 182, 0.767);
+}
+
+
+
+.continer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.Frequently-color{
+    color: rgba(241, 89, 0, 0.692);;
+}
+
+.friquntluy-pic{
+    width: 431.2px;
+    height: 423.5;
+}
+.container-three{
+    margin-right: 200px;
+    height: 10px;
+
+}
+
+.continer-img-bike{
+    filter: grayscale(100%);
+}
+
